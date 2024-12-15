@@ -3,6 +3,7 @@
 
 # IDE ayar dosyaları
 .idea/
+../.idea/
 
 # Geçici dosyalar
 __pycache__/
