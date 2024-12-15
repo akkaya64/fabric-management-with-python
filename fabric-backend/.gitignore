@@ -1,0 +1,19 @@
+# Ortam değişkenleri
+.env
+
+# IDE ayar dosyaları
+.idea/
+
+# Geçici dosyalar
+__pycache__/
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
+
+# Sanal ortam (virtual environment)
+env/
+.venv/
+
+# Migration cache (eğer kullanılmıyorsa)
+migrations/
